@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="/github-metrics.svg" alt="Metrics" width="800">
+<img src="https://github-readme-stats.vercel.app/api?username=victorjonsson&show_icons=true&count_private=true&hide_border=true" align="center" />
 
 </p>
 
@@ -12,6 +12,5 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=victorjonsson&show_icons=true&count_private=true&hide_border=true" align="center" />
 
 </div>
